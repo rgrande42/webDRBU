@@ -2,10 +2,10 @@ var header = `
 <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         
-                <a class="navbar-brand text-center">
+                <div class="navbar-brand text-center">
                     DRBU <br> 
                     Estudio de Ingeniería
-                </a>
+                </div>
                 
                 <div class="col">
                     <i class="fas fa-phone"></i> 341-4404871 <br>
